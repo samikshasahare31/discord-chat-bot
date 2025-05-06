@@ -18,5 +18,5 @@ client.on('interactionCreate',interaction =>{
     console.log(interaction);
     interaction.reply("Pong!")
     })
-client.login('')
+client.login('ADD YOUR DISCORD TOKEN')
 
